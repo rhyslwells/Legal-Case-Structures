@@ -1,0 +1,199 @@
+# Overview
+
+This repository generates folder templates for small firms of lawyers, in accordance with the guidelines taken from the SoloSez FAQ. In particular,
+
+https://solosezfaq.com/archives/2018/2018-05-folder_structure_for_organizing_files.pdf
+
+
+# Folder Structures
+
+## 1. Client-Based Structure
+
+```
+Client_Based
+│
+├── Discovery
+├── Proofs of Service
+├── Endorsed Copies
+├── Orders
+├── Correspondence
+├── Pleadings
+├── Client Records
+├── Depositions
+├── Research
+├── Emails
+└── Memos
+```
+
+## 2. Document-Based Structure
+
+```
+Document-Based│
+├── Petitions
+├── Responses
+├── Motions
+├── Orders
+├── Correspondence
+├── Discovery
+└── Research
+```
+
+## 3. Date-Based Structure
+
+```
+Date-Based│
+├── 2022
+├── 2023
+└── 2024
+```
+
+## 4. Litigation Process-Based Structure
+
+```
+Litigation Process-Based│
+├── Pleadings
+├── Discovery
+├── Depositions
+├── Motions
+├── Orders
+├── Correspondence
+└── Evidence
+```
+
+## 5. Model Client Folder Structure
+
+Client Name:
+
+```
+Model Client│
+├── Motions
+├── Orders
+├── Correspondence
+├── Pleadings
+├── Discovery
+├── Research
+└── Client Documents
+```
+
+## 6. Chronological Structure
+
+```
+Chronological│
+├── 2022
+│   ├── Pleadings
+│   ├── Orders
+│   ├── Correspondence
+│   ├── Discovery
+│   ├── Motions
+│   ├── Depositions
+│   └── Research
+│
+├── 2023
+│   ├── Pleadings
+│   ├── Orders
+│   ├── Correspondence
+│   ├── Discovery
+│   ├── Motions
+│   ├── Depositions
+│   └── Research
+│
+└── 2024
+    ├── Pleadings
+    ├── Orders
+    ├── Correspondence
+    ├── Discovery
+    ├── Motions
+    ├── Depositions
+    └── Research
+```
+
+## 7. Hybrid Structure
+
+
+```
+Hybrid│
+├── Pleadings
+│   ├── 2022
+│   ├── 2023
+│   └── 2024
+│
+├── Orders
+│   ├── 2022
+│   ├── 2023
+│   └── 2024
+│
+├── Correspondence
+│   ├── 2022
+│   ├── 2023
+│   └── 2024
+│
+├── Discovery
+│   ├── 2022
+│   ├── 2023
+│   └── 2024
+│
+├── Motions
+│   ├── 2022
+│   ├── 2023
+│   └── 2024
+│
+├── Depositions
+│   ├── 2022
+│   ├── 2023
+│   └── 2024
+└── Research
+    ├── 2022
+    ├── 2023
+    └── 2024
+```
+
+## 8. Law Practice Area-Based Structure
+
+```
+Law Practice Area-Based│
+├── Family Law
+│   ├── Case Notes
+│   ├── Correspondence
+│   ├── Pleadings
+│   ├── Client Records
+│   ├── Discovery
+│   ├── Depositions
+│   └── Research
+│
+├── Criminal Defense
+│   ├── Case Notes
+│   ├── Correspondence
+│   ├── Pleadings
+│   ├── Client Records
+│   ├── Discovery
+│   ├── Depositions
+│   └── Research
+│
+├── Personal Injury
+│   ├── Case Notes
+│   ├── Correspondence
+│   ├── Pleadings
+│   ├── Client Records
+│   ├── Discovery
+│   ├── Depositions
+│   └── Research
+│
+├── Corporate Law
+│   ├── Case Notes
+│   ├── Correspondence
+│   ├── Pleadings
+│   ├── Client Records
+│   ├── Discovery
+│   ├── Depositions
+│   └── Research
+│
+└── Intellectual Property
+    ├── Case Notes
+    ├── Correspondence
+    ├── Pleadings
+    ├── Client Records
+    ├── Discovery
+    ├── Depositions
+    └── Research
+```
+
